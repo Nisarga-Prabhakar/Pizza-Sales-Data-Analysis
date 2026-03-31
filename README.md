@@ -1,16 +1,5 @@
 # 🍕 Pizza Sales Data Analysis (SQL Project)
 
-## 📌 Project Overview
-This project analyzes pizza sales data using SQL to uncover meaningful business insights.  
-The dataset includes information about orders, order details, pizza types, and pricing.
-
-The analysis focuses on:
-- Sales performance
-- Customer behavior
-- Product popularity
-- Revenue contribution
-- Time-based demand patterns
-
 ---
 
 ## 🎯 Objective
@@ -25,7 +14,7 @@ This helps in making data-driven business decisions.
 
 ---
 
-## 🗂️ Dataset Description
+## 🗂️ Dataset
 The project uses the following tables:
 - **Orders**
 - **Order_Details**
@@ -53,7 +42,7 @@ The project uses the following tables:
 
 ---
 
-## 📎 Project Files
+## 📎 Repository Contents
 - SQL Queries File  
 - Project PDF (with queries + outputs + insights)
 - Dataset file
@@ -67,4 +56,7 @@ This project demonstrates how SQL can be used to analyze real-world business dat
 It provides a clear understanding of:
 - Customer preferences  
 - Revenue drivers  
-- Operational trends  
+- Operational trends
+
+  ---
+  ⭐ If you found this project useful, consider giving it a star!
