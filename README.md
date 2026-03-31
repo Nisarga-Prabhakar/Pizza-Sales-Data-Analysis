@@ -1,6 +1,9 @@
 # 🍕 Pizza Sales Data Analysis (SQL Project)
 
 ---
+## 📌 Project Overview
+- This project analyzes pizza sales data using SQL to uncover key insights into revenue trends, customer behavior, and product performance.
+- By leveraging multiple relational tables, the analysis identifies high-performing products, demand patterns, and business opportunities to support data-driven decision-making.
 
 ## 🎯 Objective
 The goal of this project is to analyze pizza sales data and extract key insights such as:
