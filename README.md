@@ -25,11 +25,11 @@ The project uses the following tables:
 
 ## 📊 Key Insights
 - Certain categories dominate both sales and revenue  
-- A small number of pizzas contribute most of the revenue  
-- Clear peak hours in customer demand  
+- A small number of pizzas types contribute most of the revenue  
+- Customer demand varies by time, with clear peak ordering hours 
 - Premium pizzas generate higher revenue per order  
-- Demand is relatively stable daily  
-- Revenue shows consistent growth over time  
+- Daily average orders indicate stable demand patterns
+- Revenue trends shows consistent business growth over time  
 
 ---
 
